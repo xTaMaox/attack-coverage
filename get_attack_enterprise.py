@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 #
-# Written by Francesco "dfirfpi" Picasso, Reality Net System Solutions
+# Reality Net System Solutions
 #
 # Version: 20200831
 
